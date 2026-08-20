@@ -1,0 +1,83 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000;
+}
+
+
+.menu{
+  margin-bottom: 25px;
+}
+
+.btn-menu   {
+    display: inline-block;
+    border: 1px solid #000;
+    padding: 8px 16px;
+    margin-right: 5px;
+    text-decoration: none;
+    color: blue;
+}
+
+
+.secao  {
+    margin-bottom: 25px;
+}
+
+h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.projetos-container {
+    display: flex;
+    gap: 10px;
+}
+
+
+
+ .card-projeto {
+    border: 1px solid #000;
+    width: 150px;
+    height: 120px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.tag {
+    display: inline-block;
+    border: 1px solid #000;
+    padding: 2px 6px;
+    margin: 0 2px;
+}
+
+
+
+
+.rodape {
+    border: 1px solid #000;
+    padding: 15px;
+    margin-top: 30px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
